@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Learning HTML</title>
 </head>
-
+<body>
 <header>
-
+   
 <ul>
     <li><a href="index.html">Home</a></li>
     <li><a href="tweets.html">Tweets</a></li>
@@ -18,9 +18,9 @@
 </header>
 <main>
 <article>
-<p>Welcome to my Website</p>
+<title>Welcome to my Website</title>
 
-<body>
+
     <h1>Who is Nelson Mandela</h1>
     <p>Nelson Mandela was first black South African President</p>
 
